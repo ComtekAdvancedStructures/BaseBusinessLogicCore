@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comtek.BaseBusinessLogicCore", "Comtek.BaseBusinessLogicCore\Comtek.BaseBusinessLogicCore.csproj", "{254714CB-1388-4E97-9AB6-00CC4E6B1CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254714CB-1388-4E97-9AB6-00CC4E6B1CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254714CB-1388-4E97-9AB6-00CC4E6B1CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254714CB-1388-4E97-9AB6-00CC4E6B1CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254714CB-1388-4E97-9AB6-00CC4E6B1CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D472E61-7B1A-4A30-B1D0-FD1EDB7AC6DE}
+	EndGlobalSection
+EndGlobal
